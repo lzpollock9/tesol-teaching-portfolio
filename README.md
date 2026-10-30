@@ -26,7 +26,7 @@ tesol-portfolio/
     │   ├── Lesson-Plan-Explaining-Charts-and-Graphs.docx
     │   └── Lesson-Plan-Ordering-Food.docx
     └── images/
-        └── lara-zanotti-portrait.jpg
+        └── Profile-Picture.jpg
 ```
 
 ## Supplied materials used
